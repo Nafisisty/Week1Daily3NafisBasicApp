@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Week1Daily3-NafisBasicApp</string>
+    <string name="editTextHintString">Type Here And Click The Show Button</string>
+    <string name="showBtnString">SHOW</string>
 </resources>
